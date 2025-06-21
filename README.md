@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/TusharKhatri93">
-    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Web+Development+Student;MSc+IT+Graduate;Tech+Enthusiast;Frontend+Explorer;Always+Learning..." />
+    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Web+Development+Student;MSc+IT+Final+Year+Student;Tech+Enthusiast;Frontend+Explorer;Always+Learning..." />
   </a>
 </p>
 
