@@ -2,20 +2,20 @@
 
 <p align="center">
   <a href="https://github.com/TusharKhatri93">
-    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Web+Development+Student;MSc+IT+Final+Year+Student;Tech+Enthusiast;Frontend+Explorer;Always+Learning..." />
+    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Web+Development+Student;MSc+IT+Final+Year+Student;Tech+Enthusiast;Fullstack+Developer;App+Development+Learner;Always+Learning..." />
   </a>
 </p>
 
 <h3 align="center">
-  Driven by curiosity, powered by code — I'm a web development student passionate about crafting clean, responsive, and impactful digital experiences while continuously exploring new tools, languages, and APIs.
+  Driven by curiosity, powered by code — I'm passionate about crafting clean, responsive, and impactful digital experiences across frontend, backend, and mobile app development while continuously exploring new tools, languages, and APIs.
 </h3>
 
 ---
 
 ### 🌱 About Me
-- 🎓 MSc IT student from Ahmedabad  
-- 💻 Currently focused on Web Development  
-- 🤝 Open to collaborations on frontend projects  
+- 🎓 MSc IT final year student from Ahmedabad  
+- 💻 Focused on fullstack web development and app development  
+- 🤝 Open to collaborations on frontend, backend, and app projects  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tusharkhatri09)
 
 ---
@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode,flutter,dart" />
 </p>
 
 ---
