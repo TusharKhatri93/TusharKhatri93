@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tushar Khatri</h1>
 
+<!-- 🔥 Glitch-style animated typing SVG -->
 <p align="center">
   <a href="https://github.com/TusharKhatri93">
-    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Web+Development+Student;MSc+IT+Final+Year+Student;Tech+Enthusiast;Fullstack+Developer;App+Development+Learner;Always+Learning..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Fullstack+Web+%26+App+Developer;MSc+IT+Final+Year+Student;Exploring+Tech+%7C+Learning+Daily;Coding+in+Neon+and+Terminal+Vibes;Let%E2%80%99s+Build+Something+Cool..." />
   </a>
+</p>
+
+<!-- 🚀 Optional Header Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharKhatri93/TusharKhatri93/main/assets/banner.png" alt="banner" />
 </p>
 
 <h3 align="center">
@@ -44,14 +50,25 @@
 
 ---
 
+### 🧪 Currently Learning (Neon Zone)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharKhatri93&show_icons=true&theme=radical" alt="Tushar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharKhatri93&show_icons=true&theme=midnight-purple" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharKhatri93&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharKhatri93&theme=midnight-purple" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKhatri93&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKhatri93&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
@@ -59,7 +76,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TusharKhatri93&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TusharKhatri93&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -76,5 +93,5 @@
 ### 👁️ Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TusharKhatri93&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TusharKhatri93&label=Profile%20Views&color=00FFFF&style=flat" />
 </p>
