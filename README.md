@@ -50,8 +50,7 @@
 
 ---
 
-### 🧪 Currently Learning (Neon Zone)
-
+### 🧪 Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF" />
