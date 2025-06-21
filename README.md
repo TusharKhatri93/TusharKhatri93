@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Tushar Khatri
-- 👀 I’m interested in Developement
-- 🌱 I’m currently learning Web developement
-- 📫 How to reach me instagram/@tusharkhatri004
+<h1 align="center">Hi 👋, I'm Tushar Khatri</h1>
+<h3 align="center">Driven by curiosity, powered by code — I'm a web development student passionate about crafting clean, responsive, and impactful digital experiences while continuously exploring new tools, languages, and APIs.</h3>
 
-<!---
-Simplifier9/Simplifier9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🎓 MSc IT Student from Ahmedabad<br>
+  💻 Currently focused on learning modern Web Development<br>
+  🌱 Always open to new ideas and collaborations
+</p>
