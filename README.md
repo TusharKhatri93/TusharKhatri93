@@ -3,13 +3,8 @@
 <!-- 🔥 Glitch-style animated typing SVG -->
 <p align="center">
   <a href="https://github.com/TusharKhatri93">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Fullstack+Web+%26+App+Developer;MSc+IT+Final+Year+Student;Exploring+Tech+%7C+Learning+Daily;Coding+in+Neon+and+Terminal+Vibes;Let%E2%80%99s+Build+Something+Cool..." />
+    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Tech+Enthusiast;Developer;Exploring;Tech+%7C+Learning+Daily;Always+Learning...;Coding+in+Neon+and+Terminal+Vibes;Let%E2%80%99s+Build+Something+Cool..." />
   </a>
-</p>
-
-<!-- 🚀 Optional Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TusharKhatri93/TusharKhatri93/main/assets/banner.png" alt="banner" />
 </p>
 
 <h3 align="center">
@@ -50,7 +45,8 @@
 
 ---
 
-### 🧪 Currently Learning
+### 🧪 Currently Learning (Neon Zone)
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF" />
