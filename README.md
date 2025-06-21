@@ -25,7 +25,7 @@
 
 **Languages:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,cpp,java,r" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,cpp,java,r" />
 </p>
 
 **Frameworks & Libraries:**  
@@ -45,12 +45,11 @@
 
 ---
 
-### 🧪 Currently Learning (Neon Zone)
+### 🧪 Currently Learning
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 </p>
 
