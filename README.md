@@ -22,8 +22,24 @@
 
 ### 🛠️ Tech Stack
 
+**Languages:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,cpp,java,r" />
+</p>
+
+**Frameworks & Libraries:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,express,flutter,django" />
+</p>
+
+**Databases:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Tools & Platforms:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
