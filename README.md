@@ -3,7 +3,7 @@
 <!-- 🔥 Glitch-style animated typing SVG -->
 <p align="center">
   <a href="https://github.com/TusharKhatri93">
-    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Tech+Enthusiast;Developer;Exploring;Tech+%7C+Learning+Daily;Always+Learning...;Coding+in+Neon+and+Terminal+Vibes;Let%E2%80%99s+Build+Something+Cool..." />
+    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Tech+Enthusiast;Developer;Exploring;Tech+%7C+Learning+Daily;Always+Learning...;Let%E2%80%99s+Build+Something+Cool..." />
   </a>
 </p>
 
