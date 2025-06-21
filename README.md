@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tushar Khatri</h1>
+<!-- 🖼️ Smaller Banner Background -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharKhatri93/TusharKhatri93/main/assets/banner.png" alt="banner" style="width:100%; max-height:160px; object-fit:cover; margin-bottom:-40px;" />
+</p>
 
-<!-- 🔥 Glitch-style Typewriter SVG (Original line) -->
+<!-- 🔤 Typing Animation Appears Over Banner (simulated overlay) -->
 <p align="center">
   <a href="https://github.com/TusharKhatri93">
     <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Web+Development+Student;Tech+Enthusiast;Fullstack+Developer;App+Development+Learner;Always+Learning..." />
   </a>
 </p>
 
-<!-- 🖼️ Banner Image (cartoonish avatar) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TusharKhatri93/TusharKhatri93/main/assets/banner.png" alt="banner" />
-</p>
+<h1 align="center">Hi 👋, I'm Tushar Khatri</h1>
 
 <h3 align="center">
   Driven by curiosity, powered by code — I'm passionate about crafting clean, responsive, and impactful digital experiences across frontend, backend, and mobile app development while continuously exploring new tools, languages, and APIs.
